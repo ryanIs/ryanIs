@@ -1,8 +1,7 @@
-<svg fill="none" viewBox="0 0 846 46" width="846" height="46" xmlns="http://www.w3.org/2000/svg">
-<!-- <svg fill="none" viewBox="0 0 846 45" width="846" height="45" xmlns="http://www.w3.org/2000/svg"> -->
+<!-- <svg fill="none" viewBox="0 0 846 46" width="846" height="46" xmlns="http://www.w3.org/2000/svg"> -->
+<svg fill="none" viewBox="0 0 846 45" width="846" height="45" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="border-bottom: 1px solid #aae; border-radius: 0 0 15px 15px; ">
-      <style>
+    <style>
       h1 {
         margin: 0;
         padding: 0;
@@ -38,12 +37,15 @@
           color: red;
         }
       }
-      </style>
-      <h1 id="proj">projects</h1>
-      <script type="text/javascript">
-        var proj = document.getQuerySelector('#proj');
-        proj.innerHTML = "Hello world!";
-      </script>
+
+      .main-wrapper {
+        border-bottom: 1px solid #aae; 
+        border-radius: 0 0 15px 15px;
+        padding-bottom: 8px;
+      }
+    </style>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="main-wrapper">
+      <h1>projects</h1>
     </div>
   </foreignObject>
 </svg>
