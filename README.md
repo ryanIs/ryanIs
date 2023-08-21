@@ -1,10 +1,8 @@
-### Hi there 👋
-
 <div align="center">
-    <img src="header.svg" width="846" height="400" alt="Projects">
+    <img src="header.svg" width="846" height="45" alt="Projects">
 </div>
 
-<hr/>
+<div style="border-bottom: 1px solid #99a; border-radius: 0 0 15px 15px; "></div>
 
 <p>
   Test:
