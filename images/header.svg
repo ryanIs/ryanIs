@@ -1,5 +1,5 @@
 <!-- <svg fill="none" viewBox="0 0 846 46" width="846" height="46" xmlns="http://www.w3.org/2000/svg"> -->
-<svg fill="none" viewBox="0 0 846 45" width="846" height="45" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 846 51" width="846" height="51" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <style>
       h1 {
@@ -45,7 +45,7 @@
       }
     </style>
     <div xmlns="http://www.w3.org/1999/xhtml" class="main-wrapper">
-      <h1>projects</h1>
+      <h1>projects a</h1>
     </div>
   </foreignObject>
 </svg>
