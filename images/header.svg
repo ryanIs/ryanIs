@@ -39,7 +39,11 @@
         }
       }
       </style>
-      <h1>projects</h1>
+      <h1 id="proj">projects</h1>
+      <script type="text/javascript">
+        var proj = document.getQuerySelector('#proj');
+        proj.innerHTML = "Hello world!";
+      </script>
     </div>
   </foreignObject>
 </svg>
