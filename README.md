@@ -1,8 +1,6 @@
 <div align="center">
-    <img src="images/header.svg" width="846" height="45" alt="Projects">
+    <img src="images/header.svg" width="846" height="55" alt="Projects">
 </div>
-
-<div style="border-bottom: 1px solid #99a; border-radius: 0 0 15px 15px; "></div>
 
 <p>
   Test:
