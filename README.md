@@ -1,6 +1,6 @@
 # 👋🏽 Hello world! プログラマーの宿（やど）にようこそ！
 
-<div align="center">I am `Ryan` - a developer who loves working with many languages across the stack!</div><br/>
+<div align="center">I am Ryan - a developer who loves working with many languages across the stack!</div><br/>
 
 <div align="center"><img src="images/header.svg" width="846" height="55" alt="Projects" title="Some cool projects I am working on" /></div>
 
@@ -13,7 +13,7 @@
 ![Django](https://img.shields.io/badge/-Django-43853d?style=flat-square&logo=django)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2307405e.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-<div align="center"><img src="images/regrowth.png" width="846" alt="Regrowth - Project" title="Regrowth - view your MTG cards, search for new combos and strategies, run it while you play to help manage complex game states, and much more!" /></div><br/>
+<div align="center"><img src="images/regrowth.png" width="846" alt="Regrowth - Project" title="Regrowth - view your MTG cards, search for new combos and strategies, run it while you play to help manage complex game states, and much more!" /></div>
 
 ### Features: 
 
@@ -23,7 +23,7 @@
   <li><b>Learn</b> - Learn about new cards as they are released.</li>
   <li><b>Upcoming Features</b> - I am currently working on improving the data connection to the running game client - allowing for more features to be implemented (enemy graveyard & deck tracking based on seen cards, percentage of next draw rate, etc.)</li>
   <!-- <li><b>BOLD_NAME</b> - TEXT_DESCRIPTION</li> -->
-</ul>
+</ul><br/>
 
 ## 📜 Objectives.md - VSCode task manager
 
@@ -31,14 +31,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23007ACC?style=flat-square&logo=html5&logoColor=ffffff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-CC6699?style=flat-square&logo=css3&logoColor=white)
 
-<div align="center"><img src="images/objectivesmd.jpg" width="846" alt="Objectives MD - Project" title="Objectives.md - organize your tasks right within VSCode!" /></div><br/>
+<div align="center"><img src="images/objectivesmd.jpg" width="846" alt="Objectives MD - Project" title="Objectives.md - organize your tasks right within VSCode!" /></div>
 
 ### Features: 
 
 <ul>
   <li><b>Task Management</b> - Manage your tasks right in your VSCode window! Utilize VSCode / Codium's ability to preview markdown files to handle all your tasking needs.</li>
   <!-- <li><b>BOLD_NAME</b> - TEXT_DESCRIPTION</li> -->
-</ul>
+</ul><br/>
 
 ## ☁️ Weather Forecast App - View the latest weather forecast
 
@@ -46,23 +46,24 @@
 ![Flutter](https://img.shields.io/badge/Flutter-43853d?style=flat-square&logo=flutter&logoColor=white)
 ![Node](https://img.shields.io/badge/Node-43853d?style=flat-square&logo=node&logoColor=white)
 
-<div align="center"><img src="images/weather-forecast-app.png" width="846" alt="Weather Forecast App - Project" title="Weather Forecast App - the weather at your fingertips!" /></div><br/>
+<div align="center"><img src="images/weather-forecast-app.png" width="846" alt="Weather Forecast App - Project" title="Weather Forecast App - the weather at your fingertips!" /></div>
 
 ### Features: 
 
 <ul>
   <li><b>Weather View</b> - View today's weather and upcoming forecast!</li>
   <!-- <li><b>BOLD_NAME</b> - TEXT_DESCRIPTION</li> -->
-</ul>
+</ul><br/>
 
 ## 📚 Documentation for Ryan Isler (More about me):
 
 <ul>
   <li><b>🧠 Loves learning</b> - I love to learn in not only my engineering field, but other various topics as well.</li>
-  <li><b><svg role="img" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(80%) contrast(119%); " viewBox="0 0 24 24" width="16" height="16" xmlns="http://www.w3.org/2000/svg"><title>Neovim</title><path d="M2.214 4.954v13.615L7.655 24V10.314L3.312 3.845 2.214 4.954zm4.999 17.98l-4.557-4.548V5.136l.59-.596 3.967 5.908v12.485zm14.573-4.457l-.862.937-4.24-6.376V0l5.068 5.092.034 13.385zM7.431.001l12.998 19.835-3.637 3.637L3.787 3.683 7.43 0z"/></svg> Neovim enthusiast</b> - In addition to VSCode / Codium, I have been enjoying using Neovim and its vast customizability.</li>
+  <!-- <li><b><svg role="img" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(80%) contrast(119%); " viewBox="0 0 24 24" width="16" height="16" xmlns="http://www.w3.org/2000/svg"><path d="M2.214 4.954v13.615L7.655 24V10.314L3.312 3.845 2.214 4.954zm4.999 17.98l-4.557-4.548V5.136l.59-.596 3.967 5.908v12.485zm14.573-4.457l-.862.937-4.24-6.376V0l5.068 5.092.034 13.385zM7.431.001l12.998 19.835-3.637 3.637L3.787 3.683 7.43 0z"/></svg> Neovim enthusiast</b> - In addition to VSCode / Codium, I have been enjoying using Neovim and its vast customizability.</li> -->
+  <li><b><img src="images/nvim.png" /> Neovim enthusiast</b> - In addition to VSCode / Codium, I have been enjoying using Neovim and its vast customizability.</li>
   <li><b>🎮 Game Development</b> - As a gamer, I wondered how they worked under the hood, and began creating them. (some of my favorites: Factorio, MTG, Hearthstone, Minecraft - building games are great for engineers)</li>
   <li><b>🎵 Music Composition</b> - Avid musician and composer. Family of musicians & went to <a href="https://www.pimartshs.org/" title="PiM Arts High School">Performing Arts High School</a> (I Majored in Music). Love all the sounds I can create when adding programming to the mix.</li>
-  <li><b>🏠 Homelab</b> - Building up my homelab - 3D Printing, some Pi 4's for IoT stuff, NAS and a PowerEdge for some assistant-style apps on Kubernetes</li>
+  <li><b>🏠 Homelab</b> - Building up my homelab - 3D Printing, some Pi 4's for IoT stuff, NAS and a PowerEdge for some assistant-style apps on Kubernetes.</li>
   <li><b>🖥️ Digital Media Enthusiast</b> - I am all things tech. While earning my Bachelor's at <a href="https://www.hamline.edu/" title="Hamline University">Hamline</a>, I created a variety of fun and creative projects for web, video, animation, sound, and more.</li>
   <li><b>🌌 Science Fiction</b> - I am a fan of the incredible sciences we do know, and that which we don't yet know. What are the limits of (quantum) technology?</li>
   <li><b>🈷️ Japanese 日本語</b> - Fan of the anime, games, and culture of Japan. Embarking on the journey of learning the language.</li>
@@ -123,7 +124,6 @@
 ![Git](https://img.shields.io/badge/-Git-A02012?style=flat-square&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-A02012?style=flat-square&logo=jest&logoColor=white)
 ![Nightwatch](https://img.shields.io/badge/-Nightwatch-A02012?style=flat-square&logo=nightwatch.js&logoColor=white)
-
 
 ## 😎 Additional links to see what else I've been up to:
 
